@@ -1,0 +1,29 @@
+*{
+    padding:2px;
+    font-family: 'Segoe UI', Verdana, sans-serif;
+}
+
+body{
+    font-family:'Segoe UI', Verdana, sans-serif
+}
+
+h1{
+    color:rgb(205, 119, 14);
+    border-radius:15px;
+    font-weight:bold;
+    background-color:rgb(152, 201, 152);
+}
+
+h2.method{
+    background-color:rgb(222, 188, 108);
+    border-radius:15px;
+}
+
+h2.ingredients{
+    background-color:rgb(145, 236, 236);
+    border-radius:15px;
+}
+
+.index{
+    background-color:rgb(174, 80, 80)
+}
